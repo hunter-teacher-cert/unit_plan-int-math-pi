@@ -1,5 +1,5 @@
 # UNIT PLAN NAME
-by TEAM MEMBERS
+by Kiana Herr, Sam Lojacono, William LaMorie
 
 -----
 
