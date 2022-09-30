@@ -14,12 +14,15 @@ by Kiana Herr, Sam Lojacono, William LaMorie
 ---
 
 ### Standards Referenced
-9-12.CT.4 Implement a program using a combination of student-defined and third-party functions to organize the computation.
-9-12.CT.5 Modify a function or procedure in a program to perform its computation in a different way over the same inputs, while preserving the result of the overall program.
-9-12.CT.7 Design or remix a program that utilizes a data structure to maintain changes to related pieces of data.
-9-12.CT.8 Develop a program that effectively uses control structures in order to create a computer program for practical intent, personal expression, or to address a societal issue.
-9-12.CT.9 Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
-9-12.CT.10 Collaboratively design and develop a program or computation artifact for a specific audience and create documentation outlining implementation features to inform collaborators and users.
+
+|Subcategory|Standard Code|Standard|
+|---|---|---|
+|Abstraction and Decomposition|9-12.CT.4 |Implement a program using a combination of student-defined and third-party functions to organize the computation.|
+|Abstraction and Decomposition|9-12.CT.5 |Modify a function or procedure in a program to perform its computation in a different way over the same inputs, while preserving the result of the overall program.|
+|Algorithms and Programming|9-12.CT.7 |Design or remix a program that utilizes a data structure to maintain changes to related pieces of data.|
+|Algorithms and Programming|9-12.CT.8 |Develop a program that effectively uses control structures in order to create a computer program for practical intent, personal expression, or to address a societal issue.|
+|Algorithms and Programming|9-12.CT.9 |Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.|
+|Algorithms and Programming|9-12.CT.10| Collaboratively design and develop a program or computation artifact for a specific audience and create documentation outlining implementation features to inform collaborators and users.|
 ---
 
 ### Tools Used
