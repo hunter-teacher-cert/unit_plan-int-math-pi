@@ -4,12 +4,20 @@ by Kiana Herr, Sam Lojacono, William LaMorie
 -----
 
 ### General Overview
-(include here description of unit, what class(es) it fits into, when...)
+2 party cellular automata "game" in python (Full unit project).
+
+This unit would serve as a seminal unit for covering all the material that would be expected in a concurrent enrollment CS I course (insert NYSCC standards here). It would include topics such as: polymorphism, object design, arrays, looping, conditionals, and other core programming topics in computing.
+
+The base game is played on a 2d grid (or 2d array) and each locus has the state of either empty, a producer object, or a consumer object. Producer objects can populate quickly, and have very loose criteria for survivability. Consumer objects have a longer life cycle, and require food in the form of moving to a prey object to survive, and do not manage to continue to survive if they have not consumed food recently.
 
 ---
 
 ### Motivation for Unit
-(why have you decided to make this?)
+We decided to develop this unit because it fits well into the expectations of a seminal project for Computer Science I with the college now partner institution we are working with, and because it allows for many modes of presentation to adapt to the "skin" we are using/have used in our own courses. For example, it can be paired with a graphics pack to be turned into a more of a game like structure. It could be run on a raspberry pi and output to a light board. It could be extended from its basic presentation with a GUI that allowed alterations to player rules. A finished portable version of the program can also be used more broadly for integrated instruction to look at modeling real world events or processes within a life science curriculum.
+
+Elements of the unit/project can also be built on earlier common activities in the course of focus. For example, a early project like CGOL would have very similar map generation functions, random seeding functions, and it's reproduction functions are similar to the random walk functions for some of the movement of cells. Conditional structures for decision making would share a lot of common structure with smaller projects previously tackled in the year.  
+
+Because it is a relatively complex project for any CS I course, it can also be scaled back to meet any time demands for the particulars of the course. For example, with a 3 period time chunk Groton teachers may wish to present the unit/project as something close to a tabla rosa, with some structured code comments, some break down sessions and a 2-week time table with check ins and then support as needed. Conversely, Dryden teachers, with a single period class, may want to provide a richer code scaffold, and focus on a few key programming topics, such as object design, inheritance, and polymorphism. 
 
 ---
 
