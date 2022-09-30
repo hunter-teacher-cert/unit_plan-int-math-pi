@@ -14,8 +14,12 @@ by Kiana Herr, Sam Lojacono, William LaMorie
 ---
 
 ### Standards Referenced
-List The NY State Computer Science standards you will be covering in this unit. Provide the number and name (e.g. 4-6.CT.1 Computational Thinking, Modeling and Simulation)
-
+9-12.CT.4 Implement a program using a combination of student-defined and third-party functions to organize the computation.
+9-12.CT.5 Modify a function or procedure in a program to perform its computation in a different way over the same inputs, while preserving the result of the overall program.
+9-12.CT.7 Design or remix a program that utilizes a data structure to maintain changes to related pieces of data.
+9-12.CT.8 Develop a program that effectively uses control structures in order to create a computer program for practical intent, personal expression, or to address a societal issue.
+9-12.CT.9 Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
+9-12.CT.10 Collaboratively design and develop a program or computation artifact for a specific audience and create documentation outlining implementation features to inform collaborators and users.
 ---
 
 ### Tools Used
