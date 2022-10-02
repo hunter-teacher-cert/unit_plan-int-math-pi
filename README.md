@@ -34,8 +34,9 @@ Because it is a relatively complex project for any CS I course, it can also be s
 ---
 
 ### Tools Used
-(include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
+Python will be used as the main programming language for the entire duration of the course.  Students will be exposed to different IDEs to use while programming. This may include Python IDLE, to independent third party IDEs such as Jupyter, Sublime Text 3, Eclipse and/or others.
 
+Students may also be expected to write out their code by hand using pseudocode first.  Writing out the pseudocode will help students work out the code step by step and eliminate any problems that may arise if coding was to be started first.  Students may also receive paper hadnouts where they can work out solutions on paper.
 ---
 
 ### Resources
@@ -51,6 +52,5 @@ Total lenght: X Weeks
 ---
 
 ### Assesments
-(list summative and/or formative assessments used)
-
+Daily bellringers and/or exit tickets for teacher to gauge where student understanding is.  This can be done in stages where students will submit their work on a regular basis.  These will definitely help the teacher understand if something needs to be explained further or retaught to make sure understanding is founded well enough to continue to the next phase of the process.
 ---
