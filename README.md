@@ -45,12 +45,23 @@ Python will be used as the main programming language for the entire duration of 
 ---
 
 ### Lessons
-Total lenght: X Weeks
+Total length: 2 Weeks
 
-(list each lesson with main topic(s))
+|Lesson|Topics|
+|------|------|
+|Lesson 1: Project Launch|<ul><li>Develop understanding of game rules</li><li>Form groups and plan group self-administration strategy</li></ul>|
+|Lesson 2: Build Arrays|<ul><li>Finalize group administration approach</li><li>Develop functions to build the 2D/3D array</li><li>Create "empty" cell structure</li><ul>|
+|Lesson 3: Prey Start|<ul><li>Develop prey movement logic.</li></ul>|
+|Lesson 4: Prey Continued|<ul><li>Expand prey movement logic</li><li>Add prey breeding logic</li></ul>|
+|Lesson 5: Prey Finish|<ul><li>Wrap up prey functions</li><li>Test prey functionality</li></ul>|
+|Lesson 6: Test Prey, Start Loop|<ul><li>Wrap up single cell logic</li><li>Work on game loop</li></ul>|
+|Lesson 7: Predator Start|<ul><li>Finish functions for game loop</li><li>Start to implement predator movement logic</li></ul>|
+|Lesson 8: Predator Continued|<ul><li>Expand predator movement logic</li><li>Add predator breeding logic</li></ul>|
+|Lesson 9: Polish|<ul><li>Finish predator logic</li><li>Clean up user presentation to develop the finished product</li><ul>|
+|Lesson 10: End|<ul><li>Add finishing touches</li><li>Complete group self-evaluation</li></ul>|
 
 ---
 
-### Assesments
+### Assessments
 
-Daily bellringers and/or exit tickets for teacher to gauge where student understanding is.  This can be done in stages where students will submit their work on a regular basis.  These will definitely help the teacher understand if something needs to be explained further or retaught to make sure understanding is founded well enough to continue to the next phase of the process.
+Students will self-monitor progress using a checklist for each day. Since the unit is a synthesis of prior learning instead of new learning, there should not be a need to assess content understanding so much as group progress. The end result of the project will be assessed by a rubric.
