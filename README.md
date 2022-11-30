@@ -1,4 +1,4 @@
-# UNIT PLAN NAME
+# Cell Automata Capstone Project/Unit
 by Kiana Herr, Sam Lojacono, William LaMorie
 
 -----
