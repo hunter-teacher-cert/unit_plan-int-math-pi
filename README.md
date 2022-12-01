@@ -50,10 +50,10 @@ Total length: 2 Weeks
 |Lesson|Topics|
 |------|------|
 |[Lesson 1: Project Launch](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson01/lesson.md)|<ul><li>Develop understanding of game rules</li><li>Form groups and plan group self-administration strategy</li></ul>|
-|Lesson 2: Build Arrays|<ul><li>Finalize group administration approach</li><li>Develop functions to build the 2D/3D array</li><li>Create "empty" cell structure</li><ul>|
-|Lesson 3: Prey Start|<ul><li>Develop prey movement logic.</li></ul>|
-|Lesson 4: Prey Continued|<ul><li>Expand prey movement logic</li><li>Add prey breeding logic</li></ul>|
-|Lesson 5: Prey Finish|<ul><li>Wrap up prey functions</li><li>Test prey functionality</li></ul>|
+|[Lesson 2: Build Arrays](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson02/lesson.md)|<ul><li>Finalize group administration approach</li><li>Develop functions to build the 2D/3D array</li><li>Create "empty" cell structure</li><ul>|
+|[Lesson 3: Prey Start](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson03/lesson.md)|<ul><li>Develop prey movement logic.</li></ul>|
+|[Lesson 4: Prey Continued](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson04/lesson.md)|<ul><li>Expand prey movement logic</li><li>Add prey breeding logic</li></ul>|
+|[Lesson 5: Prey Finish](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson05/lesson.md)|<ul><li>Wrap up prey functions</li><li>Test prey functionality</li></ul>|
 |Lesson 6: Test Prey, Start Loop|<ul><li>Wrap up single cell logic</li><li>Work on game loop</li></ul>|
 |Lesson 7: Predator Start|<ul><li>Finish functions for game loop</li><li>Start to implement predator movement logic</li></ul>|
 |Lesson 8: Predator Continued|<ul><li>Expand predator movement logic</li><li>Add predator breeding logic</li></ul>|
