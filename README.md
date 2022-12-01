@@ -49,7 +49,7 @@ Total length: 2 Weeks
 
 |Lesson|Topics|
 |------|------|
-|Lesson 1: Project Launch|<ul><li>Develop understanding of game rules</li><li>Form groups and plan group self-administration strategy</li></ul>|
+|[Lesson 1: Project Launch](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson01/lesson.md)|<ul><li>Develop understanding of game rules</li><li>Form groups and plan group self-administration strategy</li></ul>|
 |Lesson 2: Build Arrays|<ul><li>Finalize group administration approach</li><li>Develop functions to build the 2D/3D array</li><li>Create "empty" cell structure</li><ul>|
 |Lesson 3: Prey Start|<ul><li>Develop prey movement logic.</li></ul>|
 |Lesson 4: Prey Continued|<ul><li>Expand prey movement logic</li><li>Add prey breeding logic</li></ul>|
