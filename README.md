@@ -49,16 +49,16 @@ Total length: 2 Weeks
 
 |Lesson|Topics|
 |------|------|
-|[Lesson 1: Project Launch](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson01_launch/lesson.md)|<ul><li>Develop understanding of game rules</li><li>Form groups and plan group self-administration strategy</li></ul>|
-|[Lesson 2: Build Arrays](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson02_arrays/lesson.md)|<ul><li>Finalize group administration approach</li><li>Develop functions to build the 2D/3D array</li><li>Create "empty" cell structure</li><ul>|
-|[Lesson 3: Prey Start](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson03_prey1/lesson.md)|<ul><li>Develop prey movement logic.</li></ul>|
-|[Lesson 4: Prey Continued](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson04_prey2/lesson.md)|<ul><li>Expand prey movement logic</li><li>Add prey breeding logic</li></ul>|
-|[Lesson 5: Prey Finish](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson05_prey3/lesson.md)|<ul><li>Wrap up prey functions</li><li>Test prey functionality</li></ul>|
-|[Lesson 6: Test Prey, Start Loop](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson06_loop/lesson.md)|<ul><li>Wrap up single cell logic</li><li>Work on game loop</li></ul>|
-|[Lesson 7: Predator Start](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson07_pred/lesson.md)|<ul><li>Finish functions for game loop</li><li>Start to implement predator movement logic</li></ul>|
-|[Lesson 8: Predator Continued](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson08_pred/lesson.md)|<ul><li>Expand predator movement logic</li><li>Add predator breeding logic</li></ul>|
-|[Lesson 9: Polish](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson09_polish/lesson.md)|<ul><li>Finish predator logic</li><li>Clean up user presentation to develop the finished product</li><ul>|
-|[Lesson 10: End](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson10_end/lesson.md)|<ul><li>Add finishing touches</li><li>Complete group self-evaluation</li></ul>|
+|[Lesson 1: Project Launch](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson01_launch)|<ul><li>Develop understanding of game rules</li><li>Form groups and plan group self-administration strategy</li></ul>|
+|[Lesson 2: Build Arrays](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson02_arrays)|<ul><li>Finalize group administration approach</li><li>Develop functions to build the 2D/3D array</li><li>Create "empty" cell structure</li><ul>|
+|[Lesson 3: Prey Start](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson03_prey1)|<ul><li>Develop prey movement logic.</li></ul>|
+|[Lesson 4: Prey Continued](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson04_prey2)|<ul><li>Expand prey movement logic</li><li>Add prey breeding logic</li></ul>|
+|[Lesson 5: Prey Finish](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson05_prey3)|<ul><li>Wrap up prey functions</li><li>Test prey functionality</li></ul>|
+|[Lesson 6: Test Prey, Start Loop](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson06_loop)|<ul><li>Wrap up single cell logic</li><li>Work on game loop</li></ul>|
+|[Lesson 7: Predator Start](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson07_pred1)|<ul><li>Finish functions for game loop</li><li>Start to implement predator movement logic</li></ul>|
+|[Lesson 8: Predator Continued](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson08_pred2)|<ul><li>Expand predator movement logic</li><li>Add predator breeding logic</li></ul>|
+|[Lesson 9: Polish](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson09_polish)|<ul><li>Finish predator logic</li><li>Clean up user presentation to develop the finished product</li><ul>|
+|[Lesson 10: End](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson10_end)|<ul><li>Add finishing touches</li><li>Complete group self-evaluation</li></ul>|
 
 ---
 
