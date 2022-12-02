@@ -41,9 +41,9 @@ Python will be used as the main programming language for the entire duration of 
 
 ### Resources
 
-Sites that students may find useful for reference materal
-[W3Schools' Python Resources](https://www.w3schools.com/python/default.asp)
-[GeeksforGeeks Python](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
+Sites that students may find useful for reference materal <br>
+[W3Schools' Python Resources](https://www.w3schools.com/python/default.asp) <br>
+[GeeksforGeeks Python](https://www.geeksforgeeks.org/python-programming-language/?ref=shm) <br>
 [StackOverflow](https://stackoverflow.com/)
 
 ---
