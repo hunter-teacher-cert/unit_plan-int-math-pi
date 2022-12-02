@@ -6,7 +6,7 @@ by Kiana Herr, Sam Lojacono, William LaMorie
 ### General Overview
 2 party cellular automata "game" in python (Full unit project).
 
-This unit would serve as a seminal unit for covering all the material that would be expected in a concurrent enrollment CS I course (insert NYSCC standards here). It would include topics such as: polymorphism, object design, arrays, looping, conditionals, and other core programming topics in computing.
+This unit would serve as a seminal unit for covering all the material that would be expected in a concurrent enrollment CS I course (followng NYSCC specs). It would include topics such as: polymorphism, object design, arrays, looping, conditionals, and other core programming topics in computing.
 
 The base game is played on a 2d grid (or 2d array) and each locus has the state of either empty, a producer object, or a consumer object. Producer objects can populate quickly, and have very loose criteria for survivability. Consumer objects have a longer life cycle, and require food in the form of moving to a prey object to survive, and do not manage to continue to survive if they have not consumed food recently.
 
