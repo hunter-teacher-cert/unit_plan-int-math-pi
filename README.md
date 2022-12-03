@@ -54,15 +54,15 @@ Total length: 2 Weeks
 |Lesson|Topics|
 |------|------|
 |[Lesson 1: Project Launch](/lessons/00_launch/lesson00.md)|<ul><li>Develop understanding of game rules</li><li>Form groups and plan group self-administration strategy</li></ul>|
-|[Lesson 2: Build Arrays](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson02_arrays)|<ul><li>Finalize group administration approach</li><li>Develop functions to build the 2D/3D array</li><li>Create "empty" cell structure</li><ul>|
-|[Lesson 3: Prey Start](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson03_prey1)|<ul><li>Develop prey movement logic.</li></ul>|
-|[Lesson 4: Prey Continued](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson04_prey2)|<ul><li>Expand prey movement logic</li><li>Add prey breeding logic</li></ul>|
-|[Lesson 5: Prey Finish](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson05_prey3)|<ul><li>Wrap up prey functions</li><li>Test prey functionality</li></ul>|
-|[Lesson 6: Test Prey, Start Loop](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson06_loop)|<ul><li>Wrap up single cell logic</li><li>Work on game loop</li></ul>|
-|[Lesson 7: Predator Start](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson07_pred1)|<ul><li>Finish functions for game loop</li><li>Start to implement predator movement logic</li></ul>|
-|[Lesson 8: Predator Continued](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson08_pred2)|<ul><li>Expand predator movement logic</li><li>Add predator breeding logic</li></ul>|
-|[Lesson 9: Polish](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson09_polish)|<ul><li>Finish predator logic</li><li>Clean up user presentation to develop the finished product</li><ul>|
-|[Lesson 10: End](https://github.com/hunter-teacher-cert/unit_plan-int-math-pi/blob/main/Lesson10_end)|<ul><li>Add finishing touches</li><li>Complete group self-evaluation</li></ul>|
+|[Lesson 2: Build Arrays](/lessons/01_arrays/lesson01.md)|<ul><li>Finalize group administration approach</li><li>Develop functions to build the 2D/3D array</li><li>Create "empty" cell structure</li><ul>|
+|[Lesson 3: Prey Start](/lessons/02_prey1/lesson02.md)|<ul><li>Develop prey movement logic.</li></ul>|
+|[Lesson 4: Prey Continued](/lessons/03_prey2/lesson03.md)|<ul><li>Expand prey movement logic</li><li>Add prey breeding logic</li></ul>|
+|[Lesson 5: Prey Finish](/lessons/04_prey3/lesson04.md)|<ul><li>Wrap up prey functions</li><li>Test prey functionality</li></ul>|
+|[Lesson 6: Test Prey, Start Loop](/lessons/05_loop/lesson05.md)|<ul><li>Wrap up single cell logic</li><li>Work on game loop</li></ul>|
+|[Lesson 7: Predator Start](/lessons/06_pred1/lesson06.md)|<ul><li>Finish functions for game loop</li><li>Start to implement predator movement logic</li></ul>|
+|[Lesson 8: Predator Continued](/lessons/07_pred2/lesson07.md)|<ul><li>Expand predator movement logic</li><li>Add predator breeding logic</li></ul>|
+|[Lesson 9: Polish](/lessons/08_polish/lesson08.md)|<ul><li>Finish predator logic</li><li>Clean up user presentation to develop the finished product</li><ul>|
+|[Lesson 10: End](/lessons/09_end/lesson09.md)|<ul><li>Add finishing touches</li><li>Complete group self-evaluation</li></ul>|
 
 ---
 
