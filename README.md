@@ -53,16 +53,16 @@ Total length: 2 Weeks
 
 |Lesson|Topics|
 |------|------|
-|[Lesson 1: Project Launch](/lessons/00_launch/lesson00.md)|<ul><li>Develop understanding of game rules</li><li>Form groups and plan group self-administration strategy</li></ul>|
-|[Lesson 2: Build Arrays](/lessons/01_arrays/lesson01.md)|<ul><li>Finalize group administration approach</li><li>Develop functions to build the 2D/3D array</li><li>Create "empty" cell structure</li><ul>|
-|[Lesson 3: Prey Start](/lessons/02_prey1/lesson02.md)|<ul><li>Develop prey movement logic.</li></ul>|
-|[Lesson 4: Prey Continued](/lessons/03_prey2/lesson03.md)|<ul><li>Expand prey movement logic</li><li>Add prey breeding logic</li></ul>|
-|[Lesson 5: Prey Finish](/lessons/04_prey3/lesson04.md)|<ul><li>Wrap up prey functions</li><li>Test prey functionality</li></ul>|
-|[Lesson 6: Test Prey, Start Loop](/lessons/05_loop/lesson05.md)|<ul><li>Wrap up single cell logic</li><li>Work on game loop</li></ul>|
-|[Lesson 7: Predator Start](/lessons/06_pred1/lesson06.md)|<ul><li>Finish functions for game loop</li><li>Start to implement predator movement logic</li></ul>|
-|[Lesson 8: Predator Continued](/lessons/07_pred2/lesson07.md)|<ul><li>Expand predator movement logic</li><li>Add predator breeding logic</li></ul>|
-|[Lesson 9: Polish](/lessons/08_polish/lesson08.md)|<ul><li>Finish predator logic</li><li>Clean up user presentation to develop the finished product</li><ul>|
-|[Lesson 10: End](/lessons/09_end/lesson09.md)|<ul><li>Add finishing touches</li><li>Complete group self-evaluation</li></ul>|
+|[Lesson 1: Project Launch](/lessons/01_launch/lesson01.md)|<ul><li>Develop understanding of game rules</li><li>Form groups and plan group self-administration strategy</li></ul>|
+|[Lesson 2: Build Arrays](/lessons/02_arrays/lesson02.md)|<ul><li>Finalize group administration approach</li><li>Develop functions to build the 2D/3D array</li><li>Create "empty" cell structure</li><ul>|
+|[Lesson 3: Prey Start](/lessons/03_prey1/lesson03.md)|<ul><li>Develop prey movement logic.</li></ul>|
+|[Lesson 4: Prey Continued](/lessons/04_prey2/lesson04.md)|<ul><li>Expand prey movement logic</li><li>Add prey breeding logic</li></ul>|
+|[Lesson 5: Prey Finish](/lessons/05_prey3/lesson05.md)|<ul><li>Wrap up prey functions</li><li>Test prey functionality</li></ul>|
+|[Lesson 6: Test Prey, Start Loop](/lessons/06_loop/lesson06.md)|<ul><li>Wrap up single cell logic</li><li>Work on game loop</li></ul>|
+|[Lesson 7: Predator Start](/lessons/07_pred1/lesson07.md)|<ul><li>Finish functions for game loop</li><li>Start to implement predator movement logic</li></ul>|
+|[Lesson 8: Predator Continued](/lessons/08_pred2/lesson08.md)|<ul><li>Expand predator movement logic</li><li>Add predator breeding logic</li></ul>|
+|[Lesson 9: Polish](/lessons/09_polish/lesson09.md)|<ul><li>Finish predator logic</li><li>Clean up user presentation to develop the finished product</li><ul>|
+|[Lesson 10: End](/lessons/10_end/lesson10.md)|<ul><li>Add finishing touches</li><li>Complete group self-evaluation</li></ul>|
 
 ---
 
