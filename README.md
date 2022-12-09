@@ -78,7 +78,7 @@ This unit is project based, and the project and associated material will form th
 * Self/Group evaluation form
 
 
-Students will self-monitor progress using a checklist for each day.
+Additionally, students will self-monitor progress using a checklist for each day.
 
 
   Day 1 | Day 2 | Day 3 | Day 4 | Day 5  <br>
