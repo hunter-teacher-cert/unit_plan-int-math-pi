@@ -41,6 +41,8 @@ Python will be used as the main programming language for the entire duration of 
 
 ### Resources
 
+[Unit Plan Extension](/resources/Unit_Plan_Supliment.pdf) document for this unit plan (additional standards, planning for student issues, calendar, et. al.).
+
 Sites that students may find useful for reference materal <br>
 [W3Schools' Python Resources](https://www.w3schools.com/python/default.asp) <br>
 [GeeksforGeeks Python](https://www.geeksforgeeks.org/python-programming-language/?ref=shm) <br>
