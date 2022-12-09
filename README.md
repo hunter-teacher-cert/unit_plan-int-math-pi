@@ -71,18 +71,18 @@ Total length: 2 Weeks
 ### Assessments
 
 This unit is project based, and the project and associated material will form the basis of all formal assessment.
-* Project instructions
-* Project rubic
-* Example of a student group project proposal
-* Example of a student group time tracking form
-* Example code solution
-* Self/Group evaluation form
+* [Project instructions]()
+* [Project rubic]()
+* [Example of a student group project proposal (with feedback)]()
+* [Example of a student group time tracking form]()
+* [Example code solution]()
+* [Self/Group evaluation form]()
 
 
 Additionally, students will self-monitor progress using a checklist for each day.
 
 
-  Day 1 | Day 2 | Day 3 | Day 4 | Day 5  <br>
-  Day 6 | Day 7 | Day 8 | Day 9 | Day 10 
+  [Day 1]() | [Day 2]() | [Day 3]() | [Day 4]() | [Day 5]()  <br>
+  [Day 6]() | [Day 7]() | [Day 8]() | [Day 9]() | [Day 10]() 
 
 
