@@ -71,12 +71,12 @@ Total length: 2 Weeks
 ### Assessments
 
 This unit is project based, and the project and associated material will form the basis of all formal assessment.
-* [Project instructions](/assessments/)
-* [Project rubic](/assessments/)
-* [Example of a student group project proposal (with feedback)](/assessments/)
-* [Example of a student group time tracking form](/assessments/)
-* [Example code solution](/assessments/)
-* [Self/Group evaluation form](/assessments/)
+* [Project instructions](/assessments/Lesson_01_project_launch.pdf)
+* [Project rubic](/assessments/Lesson_01_Rubric.pdf)
+* [Example of a student group project proposal (with feedback)](/assessments/Lesson_02_example_proposal_with_feedback.pdf)
+* [Example of a student group time tracking form](/assessments/Lesson_01_Example_Time_Tracker.pdf)
+* [Example code solution](/assessments/example_project.py)
+* [Self/Group evaluation form](/assessments/Lesson_10_feedback_form.pdf)
 
 
 Additionally, students will self-monitor progress using a checklist for each day.
