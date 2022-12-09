@@ -71,9 +71,10 @@ Total length: 2 Weeks
 ### Assessments
 
 This unit is project based, and the project and associated material will form the basis of all formal assessment.
-* Project Instructions
-* Project Rubic
+* Project instructions
+* Project rubic
 * Example of a student group project proposal
+* Example of a student group time tracking form
 * Example code solution
 * Self/Group evaluation form
 
