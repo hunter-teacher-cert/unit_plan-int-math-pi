@@ -71,18 +71,18 @@ Total length: 2 Weeks
 ### Assessments
 
 This unit is project based, and the project and associated material will form the basis of all formal assessment.
-* [Project instructions]()
-* [Project rubic]()
-* [Example of a student group project proposal (with feedback)]()
-* [Example of a student group time tracking form]()
-* [Example code solution]()
-* [Self/Group evaluation form]()
+* [Project instructions](/assessments/)
+* [Project rubic](/assessments/)
+* [Example of a student group project proposal (with feedback)](/assessments/)
+* [Example of a student group time tracking form](/assessments/)
+* [Example code solution](/assessments/)
+* [Self/Group evaluation form](/assessments/)
 
 
 Additionally, students will self-monitor progress using a checklist for each day.
 
 
-  [Day 1]() | [Day 2]() | [Day 3]() | [Day 4]() | [Day 5]()  <br>
-  [Day 6]() | [Day 7]() | [Day 8]() | [Day 9]() | [Day 10]() 
+  [Day 1](/assessments/Lesson_01_checklist.pdf) | [Day 2](/assessments/Lesson_02_checklist.pdf) | [Day 3](/assessments/Lesson_03_checklist.pdf) | [Day 4](/assessments/Lesson_04_checklist.pdf) | [Day 5](/assessments/Lesson_05_checklist.pdf)  <br>
+  [Day 6](/assessments/Lesson_06_checklist.pdf) | [Day 7](/assessments/Lesson_07_checklist.pdf) | [Day 8](/assessments/Lesson_08_checklist.pdf) | [Day 9](/assessments/Lesson_09_checklist.pdf) | [Day 10](/assessments/Lesson_10_checklist.pdf) 
 
 
