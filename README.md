@@ -70,4 +70,15 @@ Total length: 2 Weeks
 
 ### Assessments
 
-Students will self-monitor progress using a checklist for each day. Since the unit is a synthesis of prior learning instead of new learning, there should not be a need to assess content understanding so much as group progress. The end result of the project will be assessed by a rubric.
+This unit is project based, and the project and associated material will form the basis of all formal assessment.
+* Project Instructions
+* Project Rubic
+* Example of a student group project proposal
+* Example code solution
+* Self/Group evaluation form
+
+
+Students will self-monitor progress using a checklist for each day. 
+| Day 1 | Day 2 | Day 3 | Day 4 | Day 5 |
+| Day 6 | Day 7 | Day 8 | Day 9 | Day 10|
+
